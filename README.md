@@ -4,3 +4,5 @@ This Java application, utilizing the Swing framework for the graphical user inte
 <br>
 <br>
 ![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/bf6278f0-b178-4e0e-8ca7-32b2b1270d7f)
+![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/61bbb12f-92f5-48f6-92ef-b47178e728c7)
+
