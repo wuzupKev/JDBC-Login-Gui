@@ -12,7 +12,8 @@ Features :
 <br>
 Login form 
 <br>
-![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/bf6278f0-b178-4e0e-8ca7-32b2b1270d7f)
+![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/1132c9b4-1c22-48c6-8826-37f2f9fa7bb8)
+
 <br>
 <br>
 Register side
