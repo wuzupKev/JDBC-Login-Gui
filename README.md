@@ -22,7 +22,9 @@ Update password
 <br>
 <br>
 Tools used:
-
+Java17,JDBC,JAVA swing , Netbeans
+Patterns:
+MVC
 
 
 
