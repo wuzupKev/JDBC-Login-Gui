@@ -1,6 +1,11 @@
 # JDBCLoginGui
 This Java application, utilizing the Swing framework for the graphical user interface, employs the Java Database Connectivity (JDBC) technology to create a secure and efficient login system. Following the Model-View-Controller (MVC) design pattern, the application ensures a clear separation of concerns, enhancing maintainability and scalability. The Data Access Object (DAO) design pattern is implemented to encapsulate the interaction with the underlying database, promoting a modular and flexible architecture. With a focus on user authentication, this project establishes a robust and user-friendly login interface, showcasing the seamless integration of Java, Swing, JDBC, and design patterns for a well-structured and maintainable codebase.
 <br>
+Tools used:
+Java17,JDBC,JAVA swing , Netbeans
+Patterns:
+MVC
+
 <br>
 <br>
 Features :
@@ -21,10 +26,6 @@ Update password
 
 <br>
 <br>
-Tools used:
-Java17,JDBC,JAVA swing , Netbeans
-Patterns:
-MVC
 
 
 
