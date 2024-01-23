@@ -16,13 +16,13 @@ Login form
 <br>
 <br>
 Register side
-<br><br>
-![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/763d6947-aec7-43a5-8cab-f2a61e237197)
 <br>
+![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/e3b805d1-42aa-4514-aee6-ff3cce1c321c)
 <br>
 Update password
 <br>
-![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/7d9fa7e1-e1e5-48e3-a678-aef983117bb4)
+![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/6807b7a7-767c-4950-bbfd-32b88ca87b0d)
+
 
 <br>
 <br>
