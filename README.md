@@ -3,6 +3,28 @@ This Java application, utilizing the Swing framework for the graphical user inte
 <br>
 <br>
 <br>
+Features :
+<br>
+Login form 
+<br>
 ![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/bf6278f0-b178-4e0e-8ca7-32b2b1270d7f)
-![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/61bbb12f-92f5-48f6-92ef-b47178e728c7)
+<br>
+<br>
+Register side
+<br><br>
+![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/763d6947-aec7-43a5-8cab-f2a61e237197)
+<br>
+<br>
+Update password
+<br>
+![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/7d9fa7e1-e1e5-48e3-a678-aef983117bb4)
+
+<br>
+<br>
+Tools used:
+
+
+
+
+
 
