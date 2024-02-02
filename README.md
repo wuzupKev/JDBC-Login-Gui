@@ -22,7 +22,18 @@ Login form
 </ul>
 <p>Go to connections folder and the connection class, change the paramethers of the connect method depending on your DATABASE ADMINISTRATOR</p>
 <br>
-![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/fe3a6ad5-d103-4e9a-92a1-7af79d74063b)
+<code>
+     public Connection connect(){
+        String jdbc= "jdbc:mysql://localhost:3306/logindb";
+        try {
+           connection= DriverManager.getConnection(jdbc,"root","AdminDB123");
+           
+        } catch (SQLException ex) {
+            Logger.getLogger(ConnectionDB.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        return connection;
+    }
+</code>
 
 
 
