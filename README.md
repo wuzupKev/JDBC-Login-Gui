@@ -14,11 +14,15 @@ Login form
 ![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/1132c9b4-1c22-48c6-8826-37f2f9fa7bb8)
 <br>
 <h2>Configurations</h2> 
-<h3>tools</h3>
+<h3>tools you need to make it work</h3>
 <ul>
   <li>Java 17</li>
   <li>JDBC Connector</li>
+   <li>database  schema</li>
 </ul>
+<p>Go to connections folder and the connection class, change the paramethers of the connect method depending on your DATABASE ADMINISTRATOR</p>
+![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/fe3a6ad5-d103-4e9a-92a1-7af79d74063b)
+
 
 
 <br>
