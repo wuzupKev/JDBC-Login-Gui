@@ -15,13 +15,8 @@ Login form
 
 <br>
 <br>
-Register side
-<br>
-![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/e3b805d1-42aa-4514-aee6-ff3cce1c321c)
-<br>
-Update password
-<br>
-![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/6807b7a7-767c-4950-bbfd-32b88ca87b0d)
+<h2>Configurations</h2> 
+
 
 
 <br>
