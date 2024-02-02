@@ -21,6 +21,7 @@ Login form
    <li>database  schema</li>
 </ul>
 <p>Go to connections folder and the connection class, change the paramethers of the connect method depending on your DATABASE ADMINISTRATOR</p>
+<br>
 ![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/fe3a6ad5-d103-4e9a-92a1-7af79d74063b)
 
 
