@@ -12,11 +12,13 @@ Features :
 Login form 
 <br>
 ![imagen](https://github.com/wuzupKev/JDBCLoginGui/assets/103788196/1132c9b4-1c22-48c6-8826-37f2f9fa7bb8)
-
-<br>
 <br>
 <h2>Configurations</h2> 
-
+<h3>tools</h3>
+<ul>
+  <li>Java 17</li>
+  <li>JDBC Connector</li>
+</ul>
 
 
 <br>
