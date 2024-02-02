@@ -22,7 +22,7 @@ Login form
 </ul>
 <p>Go to connections folder and the connection class, change the paramethers of the connect method depending on your DATABASE ADMINISTRATOR</p>
 <br>
-<code>
+<xmp>
      public Connection connect(){
         String jdbc= "jdbc:mysql://localhost:3306/logindb";
         try {
@@ -33,7 +33,7 @@ Login form
         }
         return connection;
     }
-</code>
+</xmp>
 
 
 
